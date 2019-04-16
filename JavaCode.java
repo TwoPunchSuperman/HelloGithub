@@ -4,3 +4,7 @@ public class Hello{
     print("Hello Github!");
   }
 }
+class Welcome{
+  print("I am a superman!");
+}
+
